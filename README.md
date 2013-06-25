@@ -7,12 +7,13 @@ How to use:
 
 1) Use kernel with android that has the Mobiflage (https://github.com/x942/mobiflage) patches in place
 
-2) using an adb shell enter "vdc cryptfs pde wipe <outer volume password> <hidden volume password>"
+2) using an adb shell enter "vdc cryptfs pde wipe [outer volume password]  [hidden volume password]"
 
 3) All done. Please report any bugs :)
 
 
 Notes: 
+
 1) Use a strong password on both the outer and hidden volumes. For day-to-day use you should supply the decoy password.
 This will activate standard mode, where the user can perform all their normal activities on the device, such as making calls
 and browsing the web. All data saved to the device in standard mode will be encrypted but not hidden. It is favorable to use
