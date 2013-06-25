@@ -26,3 +26,6 @@ limits the chances of hidden volume/files being discovered by an attacker.
 3) Read the documentation here: users.encs.concordia.ca/~a_skil/mobiflage/ 
 
 4) Many thanks to the authors of Mobiflage. :)
+
+
+Linux kernel standard readme: https://github.com/x942/GuardianKernel-Mako/blob/master/README
